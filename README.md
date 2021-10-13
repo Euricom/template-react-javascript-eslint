@@ -1,0 +1,1 @@
+template-react-javascript-eslint
